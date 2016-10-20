@@ -5,12 +5,12 @@
     <version>2.4.1</version>
     <title>Electrum-Dash (Install)</title>
     <authors>avbel</authors>
-    <projectUrl>https://github.com/avbel/electrum-dash-chocolatey</projectUrl>
+    <projectUrl>https://github.com/dashpay/electrum-dash</projectUrl>
     <iconUrl>https://avatars2.githubusercontent.com/u/11511719?v=3</iconUrl>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/dashpay/dash</projectSourceUrl>
-    <bugTrackerUrl>https://github.com/avbel/electrum-dash-chocolatey/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/dashpay/electrum-dash</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/dashpay/electrum-dash/issues</bugTrackerUrl>
     <tags>dash digital-cash electrum electrum-dash admin</tags>
     <summary>Electrum-DASH - lightweight Dash client</summary>
     <description>Dash (DASH) is an open sourced, privacy-centric digital currency with instant transactions.
