@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>electrum-dash</id>
+    <version>2.4.1</version>
+    <title>Electrum-Dash (Install)</title>
+    <authors>avbel</authors>
+    <projectUrl>https://github.com/avbel/electrum-dash-chocolatey</projectUrl>
+    <iconUrl>https://avatars2.githubusercontent.com/u/11511719?v=3</iconUrl>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/dashpay/dash</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/avbel/electrum-dash-chocolatey/issues</bugTrackerUrl>
+    <tags>dash digital-cash electrum electrum-dash admin</tags>
+    <summary>Electrum-DASH - lightweight Dash client</summary>
+    <description>Dash (DASH) is an open sourced, privacy-centric digital currency with instant transactions.
+It allows you to keep your finances private as you make transactions without waits, similar to cash.</description>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="tools\**" target="tools" />
+    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
+  </files>
+</package>
