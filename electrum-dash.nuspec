@@ -4,7 +4,7 @@
     <id>electrum-dash</id>
     <version>2.4.1</version>
     <title>Electrum-Dash (Install)</title>
-    <authors>avbel</authors>
+    <authors>Thomas Voegtlin, Tyler Willis, Holger Schinzel</authors>
     <projectUrl>https://github.com/dashpay/electrum-dash</projectUrl>
     <iconUrl>https://avatars2.githubusercontent.com/u/11511719?v=3</iconUrl>
     <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
